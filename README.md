@@ -1,2 +1,2 @@
-# developer-portfoliio
+# developer-portfolio
 portfolio website
